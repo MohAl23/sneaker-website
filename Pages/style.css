@@ -1,0 +1,70 @@
+body{
+    margin:0px;
+}
+main{
+    margin:20px;
+}
+
+
+
+.navbar ul{
+
+    list-style-type: none;
+    background-color: red;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color:rgb(210, 210, 201) ;
+
+}
+
+.navbar li{
+    float:left;
+   
+}
+
+.pic1 {
+    border: 5px solid red;
+   border-radius: 30%;
+   
+}
+
+.pic2 {
+    border: 5px solid red;
+   border-radius: 30%;
+   
+}
+
+p{
+color: antiquewhite;
+
+}
+
+
+
+
+h3{
+color: rgb(255, 0, 0);
+font-size: xx-large;
+
+
+}
+
+button{
+    padding:10px 20px
+
+}
+
+#more {display: none;}
+
